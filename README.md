@@ -25,6 +25,23 @@ Sou apaixonado por tecnologia desde pequeno, estou focando meus estudos principa
 
 ---
 
+### Estatísticas do GitHub
+
+<p align="center">
+  <img 
+    alt="GitHub Stats" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api?username=marlonzl7&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+  />
+  <img 
+    alt="Top Langs" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonzl7&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"
+  />
+</p>
+
+---
+
 ### Atualmente estudando
 
 - APIs REST com Spring Boot  
