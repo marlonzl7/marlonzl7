@@ -25,6 +25,16 @@ Sou apaixonado por tecnologia desde pequeno, estou focando meus estudos principa
 
 ---
 
+### Atualmente estudando
+
+- APIs REST com Spring Boot  
+- Autenticação JWT  
+- Princípios SOLID e boas práticas de arquitetura
+- Estrutura de Dados e Algoritmos
+
+---
+
+
 ### Estatísticas do GitHub
 
 <p align="center">
@@ -39,14 +49,5 @@ Sou apaixonado por tecnologia desde pequeno, estou focando meus estudos principa
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonzl7&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"
   />
 </p>
-
----
-
-### Atualmente estudando
-
-- APIs REST com Spring Boot  
-- Autenticação JWT  
-- Princípios SOLID e boas práticas de arquitetura
-- Estrutura de Dados e Algoritmos
 
 ---
