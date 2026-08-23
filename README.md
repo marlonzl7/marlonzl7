@@ -2,9 +2,7 @@
 
 ## Desenvolvedor Backend | Java • Spring Boot • Cloud • DevOps
 
-Desenvolvedor focado em construir APIs, aplicações backend e ferramentas para melhorar a experiência de desenvolvimento.
-
-Tenho interesse em arquitetura de software, infraestrutura, automação e desenvolvimento de soluções escaláveis.
+Desenvolvedor focado em construir APIs, aplicações backend e ferramentas, com interesse em arquitetura de software, infraestrutura, automação e soluções escaláveis.
 
 ---
 
@@ -13,7 +11,6 @@ Tenho interesse em arquitetura de software, infraestrutura, automação e desenv
 - 💻 Atualmente trabalho como **Custom Software Engineer**, atuando com desenvolvimento backend em **Java e Spring Boot**.
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**.
 - 🔭 Meus principais interesses são **Backend, Cloud, DevOps e Open Source**.
-- 🐧 Entusiasta de Linux e ferramentas para produtividade no desenvolvimento.
 - 📚 Atualmente aprofundando conhecimentos em **Java, Spring Boot, arquitetura de sistemas, Cloud e Go**.
 - 🛠 Gosto de criar projetos que combinam desenvolvimento de software, automação e infraestrutura para resolver problemas reais.
 
@@ -48,11 +45,6 @@ Tenho interesse em arquitetura de software, infraestrutura, automação e desenv
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### Frontend & Mobile
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 
@@ -94,26 +86,13 @@ O projeto busca simplificar a preparação de ambientes utilizando arquivos de c
 - YAML
 - Linux
 
-**Principais conceitos aplicados:**
+**Conceitos aplicados:**
 
-- Desenvolvimento de CLI
-- Automação de setup de ambiente
-- Arquitetura modular
+- CLI
+- Automação de ambientes
 - Configuração declarativa
 
 🔗 [Repositório](https://github.com/marlonzl7/kiban)
-
----
-
-## 📊 GitHub Overview
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marlonzl7&theme=transparent&v=3" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marlonzl7&theme=transparent&v=3" />
-
-</div>
 
 ---
 
