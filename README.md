@@ -48,7 +48,7 @@ Desenvolvedor focado em construir APIs, aplicações backend e ferramentas, com 
 
 ---
 
-## 📦 Projetos em destaque
+## 📦 Projetos e Experiências
 
 ### 🔹 Locus Guardian
 
@@ -56,46 +56,40 @@ Desenvolvedor focado em construir APIs, aplicações backend e ferramentas, com 
 
 Aplicação mobile e backend para segurança familiar e compartilhamento de localização em tempo real.
 
-**Tecnologias utilizadas:**
+**Tecnologias:**
 
 - Java
 - Spring Boot
 - PostgreSQL
 - WebSocket
-- Docker
 - React Native
 
-**Principais conceitos aplicados:**
+**Principais desafios:**
 
-- Autenticação com JWT, refresh tokens rotativos e gerenciamento de sessões
-- Comunicação em tempo real
-- Arquitetura REST
-- Deploy em cloud
+- Arquitetura backend escalável
+- Autenticação com JWT e refresh tokens rotativos
+- Comunicação em tempo real com WebSocket
+- Deploy e gerenciamento de infraestrutura em cloud
+
+---
 
 ### 🔹 Kiban
 
-CLI declarativa para criação e configuração de ambientes de desenvolvimento Linux de forma reproduzível.
+CLI declarativa para configuração de ambientes Linux utilizando arquivos de configuração para criar setups reproduzíveis.
 
-O projeto busca simplificar a preparação de ambientes utilizando arquivos de configuração, permitindo setups consistentes em diferentes distribuições Linux.
-
-**Principais tecnologias:**
-
-- Go
-- Cobra CLI
-- Viper
-- YAML
-- Linux
-
-**Conceitos aplicados:**
-
-- CLI
-- Automação de ambientes
-- Configuração declarativa
+**Tecnologias:**
+Go • Cobra • Viper • YAML
 
 🔗 [Repositório](https://github.com/marlonzl7/kiban)
 
 ---
 
-## 📫 Contato
+## 📊 GitHub Overview
 
-- LinkedIn: [Marlon de Souza Sampaio](https://www.linkedin.com/in/marlon-de-souza-sampaio)
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marlonzl7&theme=transparent&v=3" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marlonzl7&theme=transparent&v=3" />
+
+</div>
