@@ -16,7 +16,7 @@ Desenvolvedor focado em construir APIs, aplicações backend e ferramentas, com 
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tecnologias
 
 ### Linguagens
 
